@@ -3,22 +3,22 @@ import { Lucide } from "./icons";
 
 const projects = [
   {
-    title: "astrolinkt",
-    description: "Astro template",
+    title: "krABMaga",
+    description: "A blazing fast ABM framework",
     icon: Lucide.IconImage,
-    url: "https://github.com/flamrdevs/astrolinkt",
+    url: "https://github.com/krabmaga/krabmaga",
   },
   {
-    title: "astrovehnt",
-    description: "Astro template",
+    title: "HypergraphRepository",
+    description: "A modular repository for hypergraphs",
     icon: Lucide.IconImage,
-    url: "https://github.com/flamrdevs/astrovehnt",
+    url: "https://github.com/HypergraphRepository/datasets",
   },
   {
-    title: "astrobuckt",
-    description: "Astro template",
+    title: "HyperStance",
+    description: "Stance detection through hypergraphs and LLMs",
     icon: Lucide.IconImage,
-    url: "https://github.com/flamrdevs/astrobuckt",
+    url: "https://github.com/ddevin96/HyperStance",
   },
 ];
 

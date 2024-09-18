@@ -3,24 +3,6 @@ import { Simple } from "./icons";
 
 const stacks = [
   {
-    name: "Figma",
-    category: "Design",
-    icon: Simple.IconFigma,
-    url: "https://www.figma.com",
-  },
-  {
-    name: "Framer",
-    category: "Design",
-    icon: Simple.IconFramer,
-    url: "https://www.framer.com",
-  },
-  {
-    name: "Rive",
-    category: "Design",
-    icon: Simple.IconRive,
-    url: "https://rive.app",
-  },
-  {
     name: "Arc",
     category: "Browser",
     icon: Simple.IconArc,
@@ -31,12 +13,6 @@ const stacks = [
     category: "Productivity",
     icon: Simple.IconNotion,
     url: "https://www.notion.so",
-  },
-  {
-    name: "Calendly",
-    category: "Calendar",
-    icon: Simple.IconCalendly,
-    url: "https://calendly.com",
   },
 ];
 

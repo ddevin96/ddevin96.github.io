@@ -17,6 +17,11 @@ const socials = [
     name: "LinkedIn",
     icon: Simple.IconLinkedin,
   },
+  {
+    href: "https://scholar.google.com/citations?user=FhRTz_UAAAAJ&hl=it",
+    name: "Google Scholar",
+    icon: Simple.IconScholar,
+  },
 ];
 
 export default () => {

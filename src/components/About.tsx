@@ -9,7 +9,7 @@ export default () => {
       </div>
 
       <div className="p-2 md:p-0">
-        I am a PhD student
+        I am a PhD student in Computer Science at the University of Salerno, Italy, under the supervision of Full Professor Vittorio Scarano. My research interests include complex networks, natural language processing and agent-based modelling.
       </div>
     </div>
   );

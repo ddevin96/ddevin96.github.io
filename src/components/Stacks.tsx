@@ -12,7 +12,25 @@ const stacks = [
     name: "Notion",
     category: "Productivity",
     icon: Simple.IconNotion,
-    url: "https://www.notion.so",
+    url: "https://notion.so",
+  },
+  {
+    name: "VS Code",
+    category: "IDE",
+    icon: Simple.IconVSCode,
+    url: "https://code.visualstudio.com/",
+  },
+  {
+    name: "Discord",
+    category: "Productivity",
+    icon: Simple.IconDiscord,
+    url: "https://discord.com",
+  },
+  {
+    name: "Apple",
+    category: "OS",
+    icon: Simple.IconApple,
+    url: "https://apple.com",
   },
 ];
 

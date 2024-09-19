@@ -1,6 +1,6 @@
 # astrovehnt
 
-Bento Portfolio Template using Astro, React & TailwindCSS
+Personal portfolio
 
 ## Tech Stack
 

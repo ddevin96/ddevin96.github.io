@@ -1,11 +1,12 @@
 import { cn } from "./ui/utils.ts";
 import { Lucide } from "./icons";
+import { Simple } from "./icons";
 
 const projects = [
   {
     title: "krABMaga",
     description: "A blazing fast ABM framework",
-    icon: Lucide.IconImage,
+    icon: Simple.IconRust,
     url: "https://github.com/krabmaga/krabmaga",
   },
   {
